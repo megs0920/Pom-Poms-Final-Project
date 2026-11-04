@@ -40,7 +40,7 @@ def distance_m(T):#formula for distance from T
     return 343*T/2
 
 
-try: #42-66 Gemini AI
+try: #43-69 Gemini AI
     while 1:
         t = echo_time()
         dist = distance_m(t)
